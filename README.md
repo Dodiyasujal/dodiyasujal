@@ -1,92 +1,89 @@
 <h1 align="center">Hi 👋, I'm Sujal Dodiya</h1>
-<h3 align="center">Computer Engineering Student from Gujarat, India 🇮🇳</h3>
+<h3 align="center">BCA Graduate | Full Stack Web Developer</h3>
 
-<img align="right" alt="coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🌱 Currently Learning:
-- React.js
-- Angular
-- MongoDB
-- MySQL
-- Node.js
-
-  ## 🛠️ Skills
-
-### Programming Languages
-- JavaScript
-- Java
-- Python
-- C
-- C++
-
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Angular
-- Bootstrap
-- Tailwind CSS
-
-### Backend Development
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-- MySQL
-- MongoDB
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
-- npm
-
-### Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management System (DBMS)
-- Operating Systems
-- Computer Networks
-- Software Development Life Cycle (SDLC)
-
-💻 Projects:
-- E-Commerce Website
-- Electrical Store Management System
-- MERN Stack Projects
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,postman" />
-</p>
-
-📫 Reach Me:
-- GitHub: https://github.com/Dodiyasujal
-
-⚡ Fun Fact:
-I love building web applications and learning new technologies.
-
----
-
-### Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,mongodb,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
 ---
 
-### GitHub Stats
+## 👨‍💻 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=Dodiyasujal&show_icons=true&theme=tokyonight)
+🎓 BCA Graduate from Gujarat, India
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dodiyasujal&theme=tokyonight)
+💻 Passionate Full Stack Web Developer
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodiyasujal&layout=compact&theme=tokyonight)
+🌱 Currently learning advanced web technologies and modern frameworks
 
+🚀 Experienced in building responsive and database-driven web applications
 
+🔭 Working with React, Angular, Node.js, MongoDB, MySQL and PHP
+
+📚 Strong understanding of Web Development, DBMS, OOP and Software Development
+
+⚡ Always eager to learn new technologies and improve problem-solving skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,nodejs,express,mongodb,mysql,php,java,python,c,cpp,git,github,vscode,postman,npm,firebase&perline=7" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-Commerce Website
+- Developed a full-stack e-commerce platform
+- Product management and shopping features
+- Built using React, Node.js, MongoDB and Express.js
+
+### ⚡ Electrical Store Management System
+- Desktop/Web-based store management solution
+- Product inventory and customer management
+- Built using PHP, MySQL, HTML, CSS and JavaScript
+
+### 🌐 Angular & MongoDB Applications
+- Created responsive web applications
+- Integrated REST APIs and database operations
+- Focused on performance and user experience
+
+### 💻 MERN Stack Projects
+- Full-stack applications using MongoDB, Express.js, React and Node.js
+- Authentication and CRUD functionality
+- Modern responsive UI design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dodiyasujal&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dodiyasujal&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodiyasujal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Dodiyasujal">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
 <!--
 **Dodiyasujal/dodiyasujal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
