@@ -55,11 +55,6 @@
 - Authentication and CRUD functionality
 - Modern responsive UI design
 
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dodiyasujal&show_icons=true&theme=radical" />
 
 ---
 
@@ -71,12 +66,7 @@
 </a>
 </p>
 
----
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dodiyasujal&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Dodiyasal&color=blue)
 
