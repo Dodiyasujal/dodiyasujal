@@ -59,17 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Dodiyasujal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dodiyasujal&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodiyasujal&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Dodiyasujal&show_icons=true&theme=radical" />
 
 ---
 
@@ -82,6 +72,13 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dodiyasujal&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Dodiyasal&color=blue)
 
 ⭐ Thanks for visiting my profile!
 <!--
