@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,nodejs,express,mongodb,mysql,php,java,python,c,cpp,git,github,vscode,postman,npm,firebase&perline=7" />
 </p>
 
@@ -59,15 +59,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=Dodiyasujal&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dodiyasujal&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodiyasujal&layout=compact&theme=tokyonight" />
 </p>
 
@@ -75,7 +75,7 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
 <a href="https://github.com/Dodiyasujal">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
