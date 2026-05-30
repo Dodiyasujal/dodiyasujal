@@ -11,10 +11,56 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - MySQL
 - Node.js
 
+  ## 🛠️ Skills
+
+### Programming Languages
+- JavaScript
+- Java
+- Python
+- C
+- C++
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Angular
+- Bootstrap
+- Tailwind CSS
+
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+- MySQL
+- MongoDB
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
+
+### Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management System (DBMS)
+- Operating Systems
+- Computer Networks
+- Software Development Life Cycle (SDLC)
+
 💻 Projects:
 - E-Commerce Website
 - Electrical Store Management System
 - MERN Stack Projects
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,postman" />
+</p>
 
 📫 Reach Me:
 - GitHub: https://github.com/Dodiyasujal
@@ -39,6 +85,7 @@ I love building web applications and learning new technologies.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dodiyasujal&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodiyasujal&layout=compact&theme=tokyonight)
+
 
 <!--
 **Dodiyasujal/dodiyasujal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
